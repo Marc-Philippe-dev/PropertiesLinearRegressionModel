@@ -1,0 +1,8 @@
+propertiesEvalModel
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+.idea/
+.ipynb_checkpoints
