@@ -1,3 +1,6 @@
 scikit-optimize
 pandas
 numpy
+matplotlib
+seaborn	
+scikit-learn
